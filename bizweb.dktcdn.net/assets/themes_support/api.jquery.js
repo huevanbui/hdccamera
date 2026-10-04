@@ -9,7 +9,7 @@ function attributeToString(t) {
 
 "undefined" == typeof Bizweb && (Bizweb = {});
 
-Bizweb.mediaDomainName = "../bizweb.dktcdn.net/";
+Bizweb.mediaDomainName = "//bizweb.dktcdn.net/";
 
 Bizweb.money_format = "${{amount}}", Bizweb.onError = function (XMLHttpRequest, textStatus) {
     var data = eval("(" + XMLHttpRequest.responseText + ")");

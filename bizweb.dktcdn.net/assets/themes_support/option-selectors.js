@@ -1,6 +1,6 @@
 ﻿window.Bizweb || (window.Bizweb = {});
 
-Bizweb.mediaDomainName = "../bizweb.dktcdn.net/";
+Bizweb.mediaDomainName = "//bizweb.dktcdn.net/";
 
 // ---------------------------------------------------------------------------------
 // Bizweb Js - Public Static Functions
